@@ -1,0 +1,7 @@
+{
+  "name": "esp-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
